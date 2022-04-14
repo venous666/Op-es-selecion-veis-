@@ -1,0 +1,50 @@
+body{
+margin: 0;
+font-family:Georgia, 'Times New Roman', Times, serif
+}
+header{
+    background-color: darkseagreen;
+    padding: 15px;
+    margin-bottom: 35px;
+}
+
+header > h2{
+    color: ghostwhite;
+}
+footer{
+    background-color: mediumpurple;
+    padding: 15px;
+    font-family: sans-serif;
+   
+
+    
+    
+}
+footer > ul{
+    color:cornsilk;
+    font-weight:bolder;
+}
+.container{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 15px;
+    margin: auto;
+    width: 90%;
+    border: 2px solid cadetblue;
+    margin-bottom: 60px;
+    margin-left: 60px;
+    margin-right: 60px;
+    text-align: center;
+    border-radius: 77px
+    
+
+}
+.div-produtos{
+    margin-top: 15px;
+  display: grid;
+  border: 2px solid cadetblue;
+  margin: 60px;
+ border-radius: 77px;
+}  
+.div-produtos > label{
+    margin-bottom: 8px;
+}
